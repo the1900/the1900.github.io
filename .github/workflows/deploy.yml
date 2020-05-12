@@ -5,7 +5,7 @@ name: delploy on Github Page
 
 on:
   push:
-    branches: [ master ]
+    branches: [ dev ]
 
 jobs:
   build:
