@@ -1,0 +1,22 @@
+{
+  "name": "the1900.github.io",
+  "description": "my personal blog by Nuxt.js",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the1900/the1900.github.io.git"
+  },
+  "author": "the1900",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the1900/the1900.github.io/issues"
+  },
+  "homepage": "https://github.com/the1900/the1900.github.io#readme",
+  "dependencies": {
+    "nuxt": "^2.12.2"
+  }
+}
