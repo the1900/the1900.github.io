@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{148:function(t,e,n){"use strict";n.r(e);var o=n(24),component=Object(o.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h1",[this._v("This is test page!")]),this._v(" "),e("nuxt-link",{attrs:{to:"/"}},[this._v("go to home page")])],1)}),[],!1,null,null,null);e.default=component.exports}}]);
